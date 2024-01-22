@@ -5,7 +5,7 @@ module.exports = {
     container: {
       center: true,
       screens: {
-        '3xl': '1600px',
+        '2xl': '1440px',
       },
       padding: {
         DEFAULT: '1rem',
